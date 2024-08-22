@@ -20,3 +20,21 @@ if (se == true){
 }else{
     console.log(se)
 }
+
+//switch case: Permite executar diferentes blocos de código com base no valor de uma variável, O `switch` avalia uma expressão e executa o código correspondente ao caso (`case`) que corresponde ao valor da expressão, usando `break` para sair.
+
+let dia = 2
+let diaSemana
+switch(dia){
+    case 1:
+        diaSemana = "Domingo"
+        console.log(diaSemana)
+        break;
+    case 2:
+        diaSemana = "Segunda-feira"
+        console.log(diaSemana)
+        break
+    default:
+        diaSemana = "Dia invalido"
+}
+
