@@ -14,4 +14,8 @@ BRANCH=$(git symbolic-ref --short HEAD)
 
 # Faz o push para o repositório remoto
 git push origin $BRANCH
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> dd730d9513ac824f81eb7596a901eaf30798b51d
