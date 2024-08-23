@@ -25,7 +25,11 @@
 
 > Branch são ramos do projeto para que o desenvolvedor possa trabalhar maneira simultanea
 
-`(main/master)_____________________________
-      (nome1) \_________/       /
-     (nome2)       \___________/
+`(main/master(nome(nome1(nome1_1))(nome2)))      
 `
+
+- git push <endereço> <branch> (faz upload do repositório)
+- git add remote add origin <endereço> (com isso eu adiciono uma espécie de atalho para o push e para o fetch é como se eu tivesse transformado a linha do endereço em uma variavel com o nome de "origin" que é o padrão)
+- git remote -v (exibe o origin)
+- git clone <endereço> <nome_opcional> (clona o projeto)
+- git pull origin main (para baixar as atualizações do código)
