@@ -33,3 +33,4 @@
 - git remote -v (exibe o origin)
 - git clone <endereço> <nome_opcional> (clona o projeto)
 - git pull origin main (para baixar as atualizações do código)
+- 
