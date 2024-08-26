@@ -5,7 +5,7 @@
 - não é um tutorial (até porque se tu precisa de um tutorial e veio aqui, porra irmão tua vida ta muito errada)
 - não é um road-map
 
-> isso aqui é basicamente um diário sobre minhas meudiocridades do dia a dia como um estudante de ciencia da computação, eu tenho uma premissa que é de não me levar a sério, então por favor, não leve esse repositório a sério tambem, esse repositório nasce por conta de duas necessidades, uma de aprender a programar, nem que seja um passo por dia, e o fato de exercitar o uso do Git, porque se fosse só para aprender por aprender eu não colocaria essa vergonha na internet.
+> Isso aqui é basicamente um diário sobre minhas mediocridades do dia a dia como estudante de Ciência da Computação. Tenho uma premissa de não me levar a sério, então, por favor, não leve este repositório a sério também. Este repositório nasce de duas necessidades: uma de aprender a programar, nem que seja um passo por dia, e outra de exercitar o uso do Git. Porque, se fosse só para aprender por aprender, eu não colocaria essa vergonha na internet.
 
 
 #### Atualização de estado mental:
