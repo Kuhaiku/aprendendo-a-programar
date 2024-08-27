@@ -48,3 +48,7 @@
 > Adicionar imagens
 
 ![Raposobl_icone](../img/Raposobl.png "Icone")
+ 
+[] isso aqui é uma caixinha de "não marcado"
+[x] e essa aqui deixa ele "marcado" legal skdskdskdk
+
