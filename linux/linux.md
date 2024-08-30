@@ -1,4 +1,0 @@
-- manjaro
-
-- unbunto
-

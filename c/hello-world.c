@@ -2,7 +2,8 @@
 
 //Exemplo de programa em C
 
-void main()
+int main()
 {
-    printf("%d","hello-world");
+    printf("%s","hello-world");
+    return 0
 }
