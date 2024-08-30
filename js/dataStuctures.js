@@ -74,3 +74,21 @@ console.log(Object.keys(pessoa))
 console.log(Object.values(pessoa))
 //Object.entries(): Retorna um array de pares [key, value].
 console.log(Object.entries(pessoa))
+
+// Maps
+//O Map em JavaScript é uma estrutura de dados que permite armazenar pares chave-valor, onde qualquer tipo de dado pode ser usado como chave, seja primitivo (como strings, números) ou objetos. Essa é uma das principais diferenças em relação aos objetos (Object), onde as chaves são sempre strings ou Symbols.
+
+let map = new Map()
+console.log(map)
+//Métodos Comuns:
+//set(key, value): Adiciona um par chave-valor ao mapa.
+map.set('nome', 'Leonardo Raposo')
+map.set('idade', 23)
+//get(key): Retorna o valor associado à chave.
+console.log(map.get('nome'))
+//has(key): Verifica se a chave existe no mapa.
+console.log(map.has('idade'))
+//delete(key): Remove um par chave-valor.
+map.delete('idade')
+console.log(map)
+console.log(map.has('idade'))
